@@ -17,3 +17,10 @@ LAB #17  Сетевое взаимодействие Docker контейнеро
 
 LAB #19 Gitlab CI.
 Выполнены все основные ДЗ. Задания со * не выполнялись
+
+LAB #20 
+Выполнены все основные ДЗ. Задания со * не выполнялись.
+https://hub.docker.com/r/reshsv/ui
+https://hub.docker.com/r/reshsv/post
+https://hub.docker.com/r/reshsv/comment
+https://hub.docker.com/r/reshsv/prometheus
