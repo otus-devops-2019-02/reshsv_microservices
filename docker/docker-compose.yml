@@ -34,7 +34,7 @@ services:
             - ui
 
   post:
-    image: ${USER_NAME}/post
+    image: ${USERNAME}/post
     environment:
       - POST_DATABASE_HOST=post_db
       - POST_DATABASE=posts
