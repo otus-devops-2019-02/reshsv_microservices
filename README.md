@@ -32,3 +32,7 @@ https://hub.docker.com/r/reshsv/post
 https://hub.docker.com/r/reshsv/comment
 https://hub.docker.com/r/reshsv/prometheus
 https://hub.docker.com/r/reshsv/alertmanager
+
+LAB #22
+Выполнены все основные ДЗ. Задания со * не выполнялись.
+
